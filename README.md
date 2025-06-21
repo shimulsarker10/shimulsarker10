@@ -38,11 +38,12 @@
 > *"I write code not just to build apps... but to build a version of me she might someday notice."*
 ---
 
+<--
 ### 🐍 Contribution Snake (cool animation!)
 ![snake gif](https://github.com/shimulsarker10/shimulsarker10/blob/output/github-contribution-grid-snake.svg)
 
 ---
-
+-->
 <p align="center">
   🧡 Thanks for visiting!  
   ⭐ If you find something interesting in my repos, don't forget to star!
