@@ -1,11 +1,10 @@
 <h1 align="center">Hi there, I'm Shimul Sarker 👋</h1>
-<!--
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=100&lines=I+code+like+I+breathe...;Silently%2C+consistently%2C+for+her.;But+she+doesn%E2%80%99t+know+I+exist+%F0%9F%92%94" alt="Typing SVG" />
 </p>
 
 ---
--->
 
 ### 🧑‍💻 About Me
 - 🎓 CSE Student | Dhaka International University  
